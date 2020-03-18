@@ -3,7 +3,7 @@
 // @namespace    https://github.com/uwufule/
 // @version      1.1.1
 // @description  Обход /away.php вконтача.
-// @author       Uwufule
+// @author       unlakki
 // @match        https://vk.com/*
 // @grant        none
 // ==/UserScript==
