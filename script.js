@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VK Away
-// @namespace    https://github.com/uwufule/
+// @namespace    https://github.com/unlakki/
 // @version      1.1.1
 // @description  Обход /away.php вконтача.
 // @author       unlakki
